@@ -1,5 +1,5 @@
 # Mathematics-for-data-Science
-Repository for Stamatics Project 22' - Mathematics for Data Science 
+Repository for - Mathematics for Data Science 
 
 ### WEEK-1
 
